@@ -1,0 +1,31 @@
+[class^="col-"] {
+    border: 1px solid;
+}
+
+[class^="col-"]>img {
+    width: 100%;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.veget img {
+    width: 3%;
+}
+
+.bentoname img {
+    width: 6%;
+}
+
+.container h3,
+h4,
+{
+    text-align: center;
+}
+
+.bentoname,
+.bentoprice {
+    text-align: center;
+}
